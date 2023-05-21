@@ -7,4 +7,4 @@ This repository is built step by step in the tutorial.
 
 It now includes steps for Github.
 
-This is for hithub practise
+This is for hithub practise.
